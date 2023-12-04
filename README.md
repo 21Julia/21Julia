@@ -9,8 +9,8 @@
     •	Собираюсь продолжать совершенствовать уже полученные навыки.
     •	Планирую осваивать новые технологии для расширения моей профессиональной компетенции.
 
-## Как со мной связаться:
-    - [![Static Badge](https://img.shields.io/badge/JuliaKurganova-blue?logo=Telegram&logoColor=white&color=blue)](https://t.me/Julia_Kurganova21)
+## Как со мной связаться:  
+ [![Static Badge](https://img.shields.io/badge/JuliaKurganova-blue?logo=Telegram&logoColor=white&color=blue)](https://t.me/Julia_Kurganova21)
 
 
 <!--
