@@ -10,7 +10,7 @@
     •	Планирую осваивать новые технологии для расширения моей профессиональной компетенции.
 
 ## Как со мной связаться:
-    - ![Static Badge](https://img.shields.io/badge/JuliaKurganova-blue?logo=Telegram&logoColor=white&color=blue&link=https%3A%2F%2Ft.me%2FJulia_Kurganova21)
+- [![Static Badge](https://img.shields.io/badge/JuliaKurganova-blue?logo=Telegram&logoColor=white&color=blue&link=https%3A%2F%2Ft.me%2FJulia_Kurganova21)]
 
 
 <!--
