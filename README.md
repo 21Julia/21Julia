@@ -10,7 +10,15 @@ $\text{hello2}$    #normal
 
 $\Large \color[rgb]{1,0,1} \fontsize{15pt}{hello3}$
 
-$\Large \color[rgb]{1,0,1} \fontsize{20pt}{hello333}$
+$\Huge \color[rgb]{1,0,1} {hello333}$
+
+${\Huge \color[rgb]{1,0,1} \fontsize{hello4444}{30pt}}$
+
+$\Huge \color[rgb]{1,0,1} {hello333}$
+
+${\color[rgb]{1,0,1} \fontsize{30pt}{36pt}\selectfont hello555555}$
+
+$\Large \color[rgb]{1,0,1} \fontsize{15pt}{hello3}$$
 
 $\color[rgb]{1,0,1} hello4$
 
