@@ -1,4 +1,4 @@
-# $$Привет \ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) \ Меня \ зовут \ Юлия!$$
+# $${Привет \space ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) \space Меня \space зовут \space Юлия!}$$
 
 ----
 
@@ -11,7 +11,7 @@
    • 🌱 Планирую осваивать новые технологии для расширения моей профессиональной компетенции.  
    • 🔥 Найти работу и выполнять различные и интересные проекты.
 
-## Как со мной связаться:  
+## ${\color{#88ed30}Как \space со \space мной \space связаться{:}}$
   Telergam: [![Static Badge](https://img.shields.io/badge/JuliaKurganova-blue?logo=Telegram&logoColor=white&color=blue)](https://t.me/Julia_Kurganova21)  
   Почта: [![Static Badge](https://img.shields.io/badge/juliakurganova21%40yandex.ru-orange?logo=yandex&logoColor=white&color=orange)](mailto:juliakurganova21@yandex.ru)
 
