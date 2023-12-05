@@ -2,12 +2,6 @@
 
 # $${\color{red}welcome \space \color{green}to}$$
 
-$\Large{Просто заголовок}$
-
-$\textit{hello1}$  #italic
-
-$\text{hello2}$    #normal
-
 $\Large \color[rgb]{1,0,1} \fontsize{15pt}{hello3}$
 
 $\Huge \color[rgb]{1,0,1} {hello333}$
@@ -16,15 +10,25 @@ ${\Huge \color[rgb]{1,0,1} \fontsize{hello4444}{30pt}}$
 
 $\Huge \color[rgb]{1,0,1} {hello333}$
 
-${\color[rgb]{1,0,1} \fontsize{30pt}{36pt}\selectfont hello555555}$
+$\color[rgb]{1,0,1} \fontsize{30pt}{36pt}\selectfont {hello555555}$
 
 $\Large \color[rgb]{1,0,1} \fontsize{15pt}{hello3}$$
 
 $\color[rgb]{1,0,1} hello4$
 
-$\color[RGB]{155,127,0} hello5$
+${\fontsize{30pt}{36pt}\selectfont 30pt}$
 
-$\color[gray]{0.3} hello6$
+${\fontsize{30pt}{36pt}\selectfont 40pt}$
+
+\newcommand\myfontsize{\fontsize{15pt}{18pt}\selectfont}
+
+${\myfontsize My font size}$
+
+$\newcommand\myfontsize{\fontsize{15pt}{18pt}\selectfont}$
+${\myfontsize My font size}$
+
+$\newcommand\myfontsize{\fontsize{15pt}{18pt}\selectfont}$
+${\myfontsize \color[rgb]{1,0,1} My font size}$
 
 ----
 
