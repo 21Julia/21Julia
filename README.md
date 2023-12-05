@@ -1,6 +1,10 @@
 # Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Юлия!
-$${\color{red}welcome \space \color{green}to}$$
-## $${\color{red}welcome \space \color{green}to}$$
+
+# $${\color{red}welcome \space \color{green}to}$$
+<h1 style="color:lightskyblue">Просто заголовок</h1>
+<h1 style="color:#87cefa">Просто заголовок</h1>
+<h1 style="font-weight:500">Просто заголовок</h1>
+<h1 style="color:lightskyblue;">Просто заголовок</h1>
 ----
 
 ## Обо мне:  
