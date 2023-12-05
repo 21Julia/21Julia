@@ -1,38 +1,8 @@
 # Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Юлия!
 
-# $${\color{red}welcome \space \color{green}to}$$
-
-$\Large \color[rgb]{1,0,1} \fontsize{15pt}{hello3}$
-
-$\Huge \color[rgb]{1,0,1} {hello333}$
-
-${\Huge \color[rgb]{1,0,1} \fontsize{hello4444}{30pt}}$
-
-$\Huge \color[rgb]{1,0,1} {hello333}$
-
-$\color[rgb]{1,0,1} \fontsize{30pt}{36pt}\selectfont {hello555555}$
-
-$\Large \color[rgb]{1,0,1} \fontsize{15pt}{hello3}$$
-
-$\color[rgb]{1,0,1} hello4$
-
-${\fontsize{30pt}{36pt}\selectfont 30pt}$
-
-${\fontsize{30pt}{36pt}\selectfont 40pt}$
-
-\newcommand\myfontsize{\fontsize{15pt}{18pt}\selectfont}
-
-${\myfontsize My font size}$
-
-$\newcommand\myfontsize{\fontsize{15pt}{18pt}\selectfont}$
-${\myfontsize My font size}$
-
-$\newcommand\myfontsize{\fontsize{15pt}{18pt}\selectfont}$
-${\myfontsize \color[rgb]{1,0,1} My font size}$
-
 ----
 
-## Обо мне:  
+## ${\color{#88ed30}Обо \space мне{:}}$  
 
 Я начинающий веб-разработчик. Начала заниматься разработкой в 2022 году. С декабря 2022 года по сентябрь 2023 прошла курс «Веб-разработчик» от Яндекс Практикума! 
 
