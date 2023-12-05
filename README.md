@@ -2,21 +2,13 @@
 
 # $${\color{red}welcome \space \color{green}to}$$
 
-<h1 style="color: lightskyblue">Просто заголовок</h1>
-
-<h1 style="color:#87cefa">Просто заголовок</h1>
-
-<h1 style="font-weight:500">Просто заголовок</h1>
-
-<h1 style="color:lightskyblue;">Просто заголовок</h1>
-
 $\Large{Просто заголовок}$
 
 $\textit{hello1}$  #italic
 
 $\text{hello2}$    #normal
 
-$\Large{hello3}$$   #Bigger text size
+$\Large \color[rgb]{1,0,1}{hello3}$$   #Bigger text size
 
 $\color[rgb]{1,0,1} hello4$
 
