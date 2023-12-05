@@ -8,7 +8,9 @@ $\textit{hello1}$  #italic
 
 $\text{hello2}$    #normal
 
-$\Large \color[rgb]{1,0,1}{hello3}$$   #Bigger text size
+$\Large \color[rgb]{1,0,1} \fontsize{15pt}{hello3}$
+
+$\Large \color[rgb]{1,0,1} \fontsize{20pt}{hello333}$
 
 $\color[rgb]{1,0,1} hello4$
 
