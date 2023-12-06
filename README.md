@@ -12,7 +12,7 @@
    * 🔥 Найти работу и выполнять различные и интересные проекты.
 
 ## ${\color{#20c122}Как \space со \space мной \space связаться{:}}$
-   - Telergam: [![Static Badge](https://img.shields.io/badge/JuliaKurganova-blue?logo=Telegram&logoColor=white&color=blue)](https://t.me/Julia_Kurganova21)  
+   - Telergam: [![Static Badge](https://img.shields.io/badge/@Julia_Kurganova21-blue?logo=Telegram&logoColor=white&color=blue)](https://t.me/Julia_Kurganova21)  
    - Почта: [![Static Badge](https://img.shields.io/badge/juliakurganova21%40yandex.ru-orange?logo=yandex&logoColor=white&color=orange)](mailto:juliakurganova21@yandex.ru)
 
 ----
